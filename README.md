@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taras Nurko</h1>
 <h3 align="center">A second-year SUIT student that wants to became a quality web developer</h3>
 
-- 🌱 I’m currently learning **React&Redux**
+- 🌱 I’m currently learning **Next.js, Nest.js**
 
 - 📫 How to reach me **taras.nurko48@gmail.com**
 
